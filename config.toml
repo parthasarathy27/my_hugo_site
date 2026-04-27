@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Blogging with Hugo and Cloud Build'
+theme = "hello-friend-ng"
