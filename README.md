@@ -1,5 +1,7 @@
 # 🚀 Hugo Website Deployment with Cloud Build & Firebase
 
+![Hugo Banner](https://raw.githubusercontent.com/parthasarathy27/my_hugo_site/main/assets/hugo_site.png)
+
 This project demonstrates a complete CI/CD pipeline for deploying a static website built with Hugo using Google Cloud Build and Firebase Hosting.
 
 ## 📌 Overview
